@@ -8,6 +8,11 @@ https://github.com/n-eisei/image-engineering/blob/main/8-transformation/pointclo
 ↓
 https://colab.research.google.com/github/n-eisei/image-engineering/blob/main/8-transformation/pointcloud.ipynb
 
+## エラーが出たpythonライブラリをインストールする
+
+例えば、open3dをインストール
+
+>!pip install open3d
 
 # Colabを使う時のデータファイルをアップロードする方法
 
