@@ -31,8 +31,7 @@ getLocalFiles()
 #### 1.1フォルダごとにアップロードする際に、フォルダを圧縮して、data.zipをアップロードして下記コマンドで解凍。
 
 > !unzip data.zip
-> !unzip data.zip -d imgs  (既存フォルダimgsに置く）
->
+
 
 ### 2.colab再起動してもファイルをキープしたい方法として、gdriveにファイルを置く。
 
